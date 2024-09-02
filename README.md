@@ -19,7 +19,7 @@ Feel free to reach out if you'd like to collaborate or discuss potential opportu
 
 
 - [LinkedIn](www.linkedin.com/in/sairamreddy-srr)
-- [Email](mailto:sairamreddy0567@gmail.com)
+- [Email](mailto:sairamreddyobulreddy@gmail.com)
 - [Portfolio](https://yourportfolio.com) 
 
 <!--
