@@ -3,8 +3,9 @@ A data enthusiast with a Master’s degree in Data Analytics Engineering and a B
 
 <h2>👨‍💻Projects</h2>
 
-- [Machine learning](https://github.com/SRRObulReddy-Data/Weather-Data-Logger-AWS)
-- [Cloud (AWS)](https://github.com/SRRObulReddy-Data/Wine_Quality_Prediction_Project)
+- [Cloud (AWS)](https://github.com/SRRObulReddy-Data/Weather-Data-Logger-AWS)
+- [Wine Quality (ML)](https://github.com/SRRObulReddy-Data/Wine_Quality_Prediction_Project)
+- [Drinking Water Quality (ML)]()
 
 
 <h2>📄 Certifications</h2>
