@@ -1,5 +1,5 @@
 <h1> 👋 Hi there, I'm Sai Ram Reddy! </h1>
-A data enthusiast with a Master’s degree in Data Analytics Engineering and a Bachelor's degree in Computer Science. With a solid foundation in Data analytics, Software development, Cloud services and business intelligence, I have honed my skills as a Graduate Assistant in business analytics and a Full Stack Developer. My technical expertise spans proficiency in Microsoft Excel, SQL, Python, HTML, CSS, JavaScript and cloud platforms such as AWS, Azure, along with experience using tools like Power BI, Tableau, and Big Data technologies. I am actively seeking full-time opportunities where I can leverage my analytical and technical skills to support data-driven decision-making and deliver innovative solutions.
+A Data Analyst with 4 years of hands-on experience in data manipulation, visualization, and analysis using Python, SQL, Tableau, Power BI and AWS. Skilled in building predictive models, optimizing ETL pipelines, and creating insightful visualizations to drive data-centric decision-making. Proficient in leveraging cloud platforms (AWS), advanced SQL techniques, and data modeling to design scalable solutions. Adept at implementing machine learning algorithms to solve complex problems in industries like healthcare and software technology. 
 
 <h2>👨‍💻Projects</h2>
 
